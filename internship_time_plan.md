@@ -20,8 +20,6 @@ The internship is planned for 3 months. Based on 24 hours per week, this should 
 
 I understand that around 2 hours per week may be used for meetings, including planning and standups on my workdays.
 
-I will record my working time using Focus Bear focus sessions whenever I am working on internship tasks. This will help me keep track of my hours and provide evidence that I am meeting the required internship commitment.
-
 ## Notes
 
 If my schedule changes, I will communicate it early and update the plan if needed.
